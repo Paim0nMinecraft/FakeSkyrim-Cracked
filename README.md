@@ -11,7 +11,7 @@ English: Skyrim is using the GPL-3.0 license, they use the code and sell it, whi
 
 ### Safety
 
-English: All cracked in this repo doesn't have any back door, viruses, does not exclude the jar ontology carried, please use caution
+English: All cracked in this repo doesn't have any back door or viruses, but doesn't exclude the jar ontology carried, please use caution
 
 中: 此仓库中的所有破解均未添加任何后门，病毒等侵害计算机的程序，不排除jar本体所携带，请谨慎使用
 
